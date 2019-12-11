@@ -283,4 +283,3 @@ But don't waste too much time on the mockup. It has to stay a mockup, not to be 
 It shouldn't be use to be a display of the final product.
 It has to be made to be tested!
 So we can get the feelings of the target and we can know what they are trying to do.
-
